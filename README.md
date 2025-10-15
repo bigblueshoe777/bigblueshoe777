@@ -10,7 +10,16 @@ My variety show of experience includes **scientific sensors**, **fraud analytics
 - 💼 **What you get:** pragmatic problem-solving, clear documentation, reliable pipelines, continuous innovation, steady delivery, and impactful data storytelling.
 
 ## My Toolbox (always adding to it) 🧰
-**Python** (pandas, numpy, scipi, dbt, TensorFlow, keras, pytorch, json, requests, seaborn, plotly, matplotlib, Beautiful Soup, pytest, OpenCV, scikit-learn, socket, ElementTree, Jupyter), **SQL** (MySQL, MS Access, PostgreSQL), **Matlab/Simulink** (Bluetooth, Computer Vision, Control System, Curve Fitting, Data Acquisition, Image Acquisition/Processing, Signal Processing, Statistics/ML Toolboxes), **JS/TS** (Node, React), **C++** (VSCode, Emacs, pugixml), **XML** (XQuery, XPath, AJAX), **IDL** (ENVI), **Data Dashboarding** (Looker, Tableau, PowerBI), **Science** (remote sensing, lidar, spectroscopy, radiometry, weather/climate, ArcGIS, astronomy), **Other Gallimaufry** (Git/GitHub, CI/CD, ETL, Agile/scrum, ITIL, MS Office, technical writing, fraud detection/analysis, inventory management, system automation, customer service I guess).
+**Python** - pandas, numpy, scipi, dbt, TensorFlow, keras, pytorch, json, requests, seaborn, plotly, matplotlib, Beautiful Soup, pytest, OpenCV, scikit-learn, socket, ElementTree, Jupyter.
+**SQL** - MySQL, MS Access, PostgreSQL.
+**Matlab/Simulink** - Bluetooth, Computer Vision, Control System, Curve Fitting, Data Acquisition, Image Acquisition/Processing, Signal Processing, Statistics/ML Toolboxes.
+**JS/TS** - Node, React.
+**C++** - VSCode, Emacs, pugixml.
+**XML** - XQuery, XPath, AJAX.
+**IDL** - ENVI.
+**Data Dashboarding** - Looker, Tableau, PowerBI.
+**Science** - remote sensing, lidar, spectroscopy, radiometry, weather/climate, ArcGIS, astronomy.
+**Other Gallimaufry** - Git/GitHub, CI/CD, ETL, Agile/scrum, ITIL, MS Office, technical writing, fraud detection/analysis, inventory management, system automation, customer service.
 
 ## Important Portfolio Portal (Portentously Comported) 📚
 - **Deepfake Detection CNN on Laptop CPU** — Classifier built to see what can be done with local hardware. 
@@ -42,4 +51,4 @@ Please do reach out.
 ## Quick Links (clicky!)
 - 📃 [**Resume**](https://dkmresume2025.tiiny.site)
 - 🌐 [**LinkedIn**](https://www.linkedin.com/in/dkmoser/)
-- 📫 [**Contact**](href="&#109;&#097;&#105;&#108;&#116;&#111;:&#098;&#105;&#103;&#098;&#108;&#117;&#101;&#115;&#104;&#111;&#101;&#055;&#055;&#055;&#064;&#104;&#111;&#116;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;")
+- 📫 [**Contact**](mailto:href="&#098;&#105;&#103;&#098;&#108;&#117;&#101;&#115;&#104;&#111;&#101;&#055;&#055;&#055;&#064;&#104;&#111;&#116;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;")
