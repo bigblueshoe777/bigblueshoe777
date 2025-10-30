@@ -21,22 +21,23 @@ My variety show of experience includes **scientific sensors**, **fraud analytics
 - **Science** - remote sensing, lidar, spectroscopy, radiometry, weather/climate, ArcGIS, astronomy.
 - **Other Gallimaufry** - Git/GitHub, CI/CD, ETL, Agile/scrum, ITIL, MS Office, technical writing, fraud detection/analysis, inventory management, system automation, customer service.
 
-## Important Portfolio Portal (Portentously Comported) 📚
+## Important Portfolio Portal (Portentously Comported) (See my pins below for links to these.)📚
 - **Deepfake Detection CNN on Laptop CPU** — Classifier built to see what can be done with local hardware. 
   _Highlights:_ deterministic runs, TensorFlow, Kaggle dataset, parameter tuning, neural network construction and simplification.
-  Repo: coming soon 🚧
+  Repo coming soon 🚧
+
+- **Healthcare Contracts Ops Dashboard (Tableau)** - Actionable view of vendor spend, coverage, and renewal risk.
+  _Highlights:_ KPI tiles, top-N vendors, expiry window slider, drill-through filters, site/dept heatmap.
 
 - **ATO & Check-Kiting Fraud Case Study** — Notebook exploring popular model tradeoffs.
-  _Highlights:_ , data cleaning/encoding, feature engineering, train/val/test split, confusion matrices, RandomForest hybridization.
-  Repo: coming soon 🚧
+  _Highlights:_ data cleaning/encoding, feature engineering, train/val/test split, confusion matrices, RandomForest hybridization.
+  Repo coming soon 🚧
 
-- **Asset & Parts Tracker (backend API)** — FastAPI + SQL (SQLite/Postgres) for assets, vendors, and calibration schedules.  
+- **MVP Asset & Parts Tracker (backend API)** — FastAPI + SQL (SQLite/Postgres) for assets, vendors, and calibration schedules.  
   _Highlights:_ migrations, typed models, pagination/filtering, pytest + coverage, GitHub Actions.  
-  Repo: coming soon 🚧
 
 - **MIRA - MovIe Recommendation Agent** — Agentic pipeline prototype, current WIP.
   _Highlights:_ retrieval + ranking loop, evaluation harness.
-  Repo: coming soon 🚧
 
 ## How I Can Help Your Team 📈
 - Modernize and streamline through *automation and AI/ML* applied with wisdom and ethics.
