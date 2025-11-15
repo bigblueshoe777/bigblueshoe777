@@ -22,9 +22,8 @@ My variety show of experience includes **scientific sensors**, **fraud analytics
 - **Other Gallimaufry** - Git/GitHub, CI/CD, ETL, Agile/scrum, ITIL, MS Office, technical writing, fraud detection/analysis, inventory management, system automation, customer service.
 
 ## Important Portfolio Portal (Portentously Comported) 📚
-- **Deepfake Detection CNN on Laptop CPU** — Classifier built to see what can be done with local hardware. 
+- [**Deepfake Detection CNN on Laptop CPU**](https://bigblueshoe777.github.io/deepfake-cnn-book/Deepfake_CNN.html) — Classifier built to see what can be done with local hardware. 
   _Highlights:_ deterministic runs, TensorFlow, Kaggle dataset, parameter tuning, neural network construction and simplification.
-  Repo coming soon 🚧
 
 - [**Healthcare Contracts Ops Dashboard (Tableau)**](https://public.tableau.com/views/contracts_dashboard/Dashboard1) - Actionable view of vendor spend, coverage, and renewal risk.
   _Highlights:_ KPI tiles, top-N vendors, expiry window slider, drill-through filters, site/dept heatmap.
